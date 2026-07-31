@@ -1,0 +1,2 @@
+mensaje = "adios"
+color = 'rojo'
